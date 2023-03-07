@@ -44,3 +44,23 @@ d3.selectAll("#filter-btn").on("Click", handleClick);
 
 //Build the table when the page loads.
 buildTable(tableData);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
